@@ -1,0 +1,7 @@
+.databricks
+catalog_volume/
+.DS_Store
+
+# Local config with secrets (copy config_example.py → config_local.py)
+config_local.py
+Data generation.ipynb
